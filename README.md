@@ -11,6 +11,12 @@ Backend-focused Web Developer working mainly with Laravel, PHP, PostgreSQL and V
 - **Other:** REST APIs, third-party integrations, Git
 
 ---
+## Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</p>
+
 ### 🔥 Contribution Streak
 
 <p align="center">
