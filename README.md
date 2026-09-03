@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Louis 👋
 
-<!--
-**louis-perez/louis-perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Web Developer working mainly with Laravel, PHP, PostgreSQL and Vue/Nuxt.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** PHP, Laravel
+- **Frontend:** Vue, Nuxt, JavaScript
+- **Database:** PostgreSQL, MySQL
+- **Infrastructure:** Redis, Elasticsearch
+- **Other:** REST APIs, third-party integrations, Git
+
+---
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=louis-perez&theme=dark&hide_border=true&border_radius=5&timezone=%2B8&short_numbers=true&exclude_days=Sun%2CSat&currStreakLabel=0597EB&fire=0597EB&ring=16B9EB" alt="GitHub Streak" />
+</p>
